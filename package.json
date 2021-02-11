@@ -1,0 +1,28 @@
+{
+  "name": "job-api",
+  "version": "1.0.0",
+  "description": "Job list api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josipfrljic94/job-api.git"
+  },
+  "keywords": [
+    "jobs",
+    "list",
+    "api"
+  ],
+  "author": "Josip Frljić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josipfrljic94/job-api/issues"
+  },
+  "homepage": "https://github.com/josipfrljic94/job-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
