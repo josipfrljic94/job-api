@@ -1,0 +1,139 @@
+
+  { 
+           
+       
+           "list": [
+                {
+                    "id":"132",
+                    "title":"Marketing professional",
+                    "categoryId":"342",
+                    "qtn":1,
+                    "place":"Zagreb",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":2,
+                    "image":"https://www.usnews.com/dims4/USNEWS/314b8b9/2147483647/crop/2033x1334%2B0%2B0/resize/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fbb%2Ff4%2F35974ae240cbadcad0c3027c28c9%2Fmarketingmanager.jpg"
+                },
+                {
+                    "id":"142",
+                    "title":"Car saler",
+                    "categoryId":"342",
+                    "qtn":3,
+                    "place":"Varaždin",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":1,
+                    "image":"http://www.uvisor.com/wp-content/uploads/2017/01/ChZJNCrWwAE_Sf51.jpg"
+                },
+                {
+                    "id":"622",
+                    "title":"Land manager",
+                    "categoryId":"423",
+                    "qtn":1,
+                    "place":"Osijek",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":5,
+                    "image":"https://previews.123rf.com/images/jackf/jackf2006/jackf200606952/150372541-skilled-agricultural-worker-cutting-young-leaves-of-green-arugula-on-farm-field-harvest-time.jpg"
+                },
+                {
+                    "id":"623",
+                    "title":"Land worker",
+                    "categoryId":"423",
+                    "qtn":1,
+                    "place":"Osijek",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":1,
+                    "image":"https://previews.123rf.com/images/jackf/jackf2006/jackf200606952/150372541-skilled-agricultural-worker-cutting-young-leaves-of-green-arugula-on-farm-field-harvest-time.jpg"
+                },
+                {
+                    "id":"489",
+                    "title":"Graphic designer",
+                    "categoryId":"928",
+                    "qtn":2,
+                    "place":"Split",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":2,
+                    "image":"https://ciklopea.com/wp-content/uploads/2018/05/graphic-designer.jpg"
+                },
+                {
+                    "id":"565",
+                    "title":"Wall painter",
+                    "categoryId":"928",
+                    "qtn":1,
+                    "place":"Rijeka",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":1,
+                    "image":"https://thearchitectsdiary.com/wp-content/uploads/2019/06/professional-house-painter.jpg"
+                },
+                {
+                    "id":"321",
+                    "title":"Taxi driver",
+                    "categoryId":"108",
+                    "qtn":4,
+                    "place":"Zagreb",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":2,
+                    "image":"https://www.codingdojo.com/blog/wp-content/uploads/FULL-STACK-DEV-GRAPH-2.jpg"
+                },
+                {
+                    "id":"989",
+                    "title":"PHP-Wordpress developer",
+                    "categoryId":"152",
+                    "qtn":2,
+                    "place":"Osijek",
+                    "description":"It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":3,
+                    "image":"https://blog.retargeting.biz/wp-content/uploads/2019/02/blog_php_cover.png"
+                },
+                {
+                    "id":"189",
+                    "title":"Java developer",
+                    "categoryId":"152",
+                    "qtn":1,
+                    "place":"Rijeka",
+                    "description":"'Content here, content here',It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":2,
+                    "image":"https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale"
+                },
+                {
+                    "id":"222",
+                    "title":"Truck driver",
+                    "categoryId":"108",
+                    "qtn":5,
+                    "place":"Slavonski Brod",
+                    "description":"Driver must have It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":3,
+                    "image":"https://www.volvotrucks.com/content/dam/volvo/volvo-trucks/masters/magazine/2020/1-20/new-truck-generation/Driver-in-cab_Start_R2A5755_1860x1050.jpg"
+                },
+                {
+                    "id":"112",
+                    "title":"Logistic manager",
+                    "categoryId":"232",
+                    "qtn":1,
+                    "place":"Zagreb",
+                    "description":" The point of using Lorem Ipsum is that.It is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":3,
+                    "image":"https://i0.wp.com/www.oxbridgeacademy.edu.za/blog/wp-content/uploads/2018/06/logistics-manager-day.jpg?resize=1000%2C640&ssl=1"
+                },
+                {
+                    "id":"949",
+                    "title":"MERN developer",
+                    "categoryId":"152",
+                    "qtn":2,
+                    "place":"Zagreb",
+                    "description":"MERN and work with SQL and cloud technology. Typescript and it is a long established fact that a reader will be distracted by the readablecontent of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable.",
+                    "experience":2,
+                    "image":"https://www.netokracija.com/wp-content/uploads/2018/09/portrait-of-young-programmer-working-in-office-6VB9FQG-800x400.jpg"
+                }
+            
+            ],
+            "categories":[
+                {"id":"152","title":"IT"},
+                {"id":"232","title":"economy and managment"},
+                {"id":"342","title":"marketing and sales"},
+                {"id":"423","title":"agriculture and forestry"},
+                {"id":"928","title":"design and art"},
+                {"id":"108","title":"logistic and transport"}
+            ]
+        
+    
+    
+    }
